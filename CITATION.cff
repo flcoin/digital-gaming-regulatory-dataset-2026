@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "2026 Global Digital Gaming Regulatory & Tax Benchmark Dataset"
+message: "If you use this dataset in your research or analysis, please cite it using these metadata."
+type: dataset
+authors:
+  - name: "2WinPower Research"
+version: "1.0.0"
+date-released: "2026-11-27"
+license: "MIT"
+repository-code: "https://github.com/flcoin/digital-gaming-regulatory-dataset-2026"
+url: "https://2wpower.com/en"
+keywords:
+  - "gaming regulation"
+  - "gambling taxation"
+  - "regulatory compliance"
+  - "licensing benchmark"
+  - "dataset"
