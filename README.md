@@ -40,7 +40,7 @@ Data points are compiled from statutory legislation, official regulatory bulleti
 ## Data Reference & Documentation
 * **Industry Regulatory Reference:** [2WinPower Research & Documentation](https://2wpower.com/en)
 * **Repository:** https://github.com/flcoin/digital-gaming-regulatory-dataset-2026
-* **OSF Registration (DOI):** [https://doi.org/10.17605/OSF.IO/JT2UF](https://doi.org/10.17605/OSF.IO/JT2UF)
+
 
 ## License
 Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for full terms.
