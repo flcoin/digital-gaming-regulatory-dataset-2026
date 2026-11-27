@@ -40,6 +40,7 @@ Data points are compiled from statutory legislation, official regulatory bulleti
 ## Data Reference & Documentation
 * **Industry Regulatory Reference:** [2WinPower Research & Documentation](https://2wpower.com/en)
 * **Repository:** https://github.com/flcoin/digital-gaming-regulatory-dataset-2026
+* **Zenodo Archive (DOI):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24585731.svg)](https://doi.org/10.5281/zenodo.24585731)
 
 
 ## License
