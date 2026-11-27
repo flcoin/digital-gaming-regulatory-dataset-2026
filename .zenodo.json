@@ -1,0 +1,17 @@
+{
+  "title": "2026 Global Digital Gaming Regulatory & Tax Benchmark Dataset",
+  "upload_type": "dataset",
+  "description": "A structured, machine-readable benchmark dataset covering digital gaming regulatory frameworks, licensing models, fiscal regimes, and compliance requirements across 24 regulated jurisdictions as of Q4 2026. Includes 19 standardized statutory, fiscal, and operational variables for comparative policy research and regulatory analysis.",
+  "creators": [
+    {
+      "name": "2WinPower Research"
+    }
+  ],
+  "keywords": [
+    "digital gaming regulation",
+    "fiscal policy",
+    "regulatory compliance",
+    "licensing benchmark",
+    "open dataset"
+  ]
+}
